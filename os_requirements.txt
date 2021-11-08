@@ -1,0 +1,13 @@
+#Key system information
+ps
+top
+
+#for opening files
+xdg #Arch based os not default installed
+
+#subset of information
+getconf
+
+#search for GUI based open processes
+xprop #May not be installed on Arch based os, Fedora also seems buggy
+      

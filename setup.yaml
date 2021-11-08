@@ -1,0 +1,48 @@
+bgcolor:
+- 80
+- '#bf4040'
+cpuplt:
+- 0
+- 2
+diskwarning:
+- true
+- true
+gridplot:
+- false
+- false
+hlcolor:
+- 3
+- '#034b0b'
+memplt:
+- 0
+- 1
+memview:
+- 0
+- 1
+netplt:
+- 0
+- 0
+pg1time:
+- 3.0
+- 3.0
+pg2time:
+- 5.0
+- 4.0
+pg3time:
+- 5.0
+- 5.0
+plcolor:
+- 100
+- '#73d216'
+proctrack:
+- 0
+- 0
+procview:
+- 0
+- 0
+templt:
+- 0
+- 0
+tempunit:
+- 0
+- 0
