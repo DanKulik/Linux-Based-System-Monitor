@@ -16,7 +16,7 @@ Unique color scheme (sorry at the moment not changeable)
 ![](Images/processes.png)
 
 
-![](Images/reasources.png)
+![](Images/resources.png)
 
 
 ![](Images/anciliary.png)
